@@ -1,5 +1,5 @@
 Practical Information
----------------------
+=====================
 
 Where is located Anglet ?
 -------------------------

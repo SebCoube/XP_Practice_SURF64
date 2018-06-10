@@ -1,4 +1,4 @@
-## Practical Information
+# Practical Information
 
 
 ```{r setup, include=FALSE}
