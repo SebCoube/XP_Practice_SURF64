@@ -13,23 +13,7 @@ library(ggplot2)
 
 ## Where is located Anglet ?
 
-```{r es2, echo=FALSE,,warning=FALSE}
-locus="Allée du Parc Montaury, Anglet, France"
-myMap <- get_map(location=locus, zoom= 16, source="google", 
-                 maptype="roadmap", crop=TRUE)
-```
-
-```{r es3,echo=FALSE,,warning=FALSE}
-##ggmap(myMap,extend="device")
-```
-
-```{r es4,echo=FALSE,,warning=FALSE}
-library(leaflet)
-m <- leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-1.509304, lat=43.479965, popup="The place to be")
-m
-```
+It is [here](http://angletr2017.com/English1/Information.html) 
 
 
 ## How to Join Anglet 
