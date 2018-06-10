@@ -3,7 +3,11 @@ Advanced OMIC Profiling and Integration
 
 ![](IMAGES/Surf64_small_image.png)
 
-## WEDNESDAY 12 JULY 2017 
+Welcome to the first summer school organized in Anglet. 
+
+## Practical Information
+
+[here](Information.Rmd)
 
 - Importation data set [here](/Importation.md)
     - Excel, txt, ...
