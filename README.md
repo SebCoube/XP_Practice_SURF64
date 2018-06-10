@@ -1,6 +1,7 @@
 # XP-Practice: ANGLET workshop (25 to 29 June 2018)
 Advanced OMIC Profiling and Integration
 
+![](IMAGES/Banner_Practice_small.pdf)
 
 ## WEDNESDAY 12 JULY 2017 
 
