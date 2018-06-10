@@ -7,7 +7,7 @@ Welcome to the first summer school organized in Anglet.
 
 ## Practical Information
 
-[here](Information.Rmd)
+[here](Information.html)
 
 - Importation data set [here](/Importation.md)
     - Excel, txt, ...

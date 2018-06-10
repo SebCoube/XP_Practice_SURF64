@@ -1,13 +1,10 @@
 ## Practical Information
 
 
-***
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE,message = FALSE)
 ```
 
-***
 ```{r es, echo=FALSE,warning=FALSE}
 library(googleVis)
 library(ggmap)
@@ -17,7 +14,7 @@ library(ggplot2)
 ## Where is located Anglet ?
 
 ```{r es2, echo=FALSE,,warning=FALSE}
-locus="Allee du Parc Montaury, Anglet, France"
+locus="Allée du Parc Montaury, Anglet, France"
 myMap <- get_map(location=locus, zoom= 16, source="google", 
                  maptype="roadmap", crop=TRUE)
 ```
