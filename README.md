@@ -1,5 +1,5 @@
-# R-TRAINING-SIAME
-Tutoriel on R 
+# XP-Practice: ANGLET workshop (25 to 29 June 2018)
+Advanced OMIC Profiling and Integration
 
 
 ## WEDNESDAY 12 JULY 2017 
