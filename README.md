@@ -8,9 +8,9 @@ Welcome to the first summer school organized in Anglet.
 ## Week Schedule
 
 - The week schedule is available 
-[here](Week_schedule.pdf)
+[here](IMAGES/Week_schedule.pdf)
 
-- The Full program is available [here](Full_Surf64_brochure_final.pdf)
+- The Full program is available [here](IMAGES/Full_Surf64_brochure_final.pdf)
 
 
 
