@@ -5,7 +5,14 @@ Advanced OMIC Profiling and Integration
 
 Welcome to the first summer school organized in Anglet. 
 
-The program is available [here](IMAGES/Surf64_brochure_2018_May.pdf)
+## Week Schedule
+
+- The week schedule is available 
+[here](Week_schedule.pdf)
+
+- The Full program is available [here](Full_Surf64_brochure_final.pdf)
+
+
 
 ## Practical Information
 
