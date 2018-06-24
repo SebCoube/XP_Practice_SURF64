@@ -16,6 +16,13 @@ Welcome to the first summer school organized in Anglet.
 
 ## Practical Information
 
+- Welcome and registration is between 9.15 to 9.30.
+- Location:  the first floor of building 1 (see map) close to room 109. 
+- First lecture starts at 9.30 in room 109.
+
+![](IMAGES/Campus_Montaury.png)
+
+
 You can find some useful information  [here](Information.md)
 
 ## Set up your computer 
