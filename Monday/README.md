@@ -8,7 +8,7 @@
 - Morning Lecture from Marc is available [here](Intro_Surf64_2018.pdf)
 
 - Lecture on Rmarkdown is available 
-[here](Rmarkdown_Lecture.html)
+[here](Slides_Rmarkdown.pdf)
 
-- Lecture on Git and Github is available [here](Git-Github-lecture.html)
+- Lecture on Git and Github is available [here](Introduction_Git_Github.pdf)
 
