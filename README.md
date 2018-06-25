@@ -10,6 +10,8 @@ Welcome to the first summer school organized in Anglet.
 - The week schedule is available 
 [here](IMAGES/Week_schedule.pdf)
 
+    - Monday Lectures are available [here](Monday/READEME.md)
+
 - The Full program is available [here](IMAGES/Full_Surf64_brochure_final.pdf)
 
 
