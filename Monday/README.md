@@ -10,5 +10,5 @@
 - Lecture on Rmarkdown is available 
 [here](Slides_Rmarkdown.pdf)
 
-- Lecture on Git and Github is available [here](Introduction_Git_Github.pdf)
+- Lecture on Git and Github is available [here](Introduction_Git_GitHub.pdf)
 
